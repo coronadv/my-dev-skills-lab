@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+      justify-content: center;
+  }
+
+  .main-title {
+      background-color: rgb(147, 192, 138);
+      padding: 1rem;
+      width: 500px;
+      color: white;
+      text-align: center;
+  }
+
+  .element {
+      color: rgb(214, 198, 57);
+  }
